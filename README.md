@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Vladimir Petrovic
 
-<!--
-**vladimir-petrovic-it/vladimir-petrovic-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT professional focused on Windows Server, Microsoft Azure, Microsoft 365, and hybrid infrastructure.
 
-Here are some ideas to get you started:
+## Certifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Microsoft Certified: Azure Administrator Associate (AZ-104)
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+
+## Currently Learning
+
+- Windows Server 2025
+- Active Directory Domain Services
+- Group Policy
+- File Services
+- Hyper-V
+- Hybrid Identity
+- Azure integration
+- PowerShell automation
+
+## Current Project
+
+### AZ-802 Windows Server Hybrid Lab
+
+Building a hands-on Windows Server 2025 hybrid infrastructure lab covering:
+
+- Active Directory
+- DNS
+- Group Policy
+- File Server permissions
+- Hyper-V
+- Hybrid identity
+- Azure integration
+- Security
+- Backup and disaster recovery
+- PowerShell automation
+
+## Technologies
+
+Windows Server | Active Directory | Azure | Microsoft 365 | Entra ID | Hyper-V | PowerShell | TCP/IP | DNS | DHCP
